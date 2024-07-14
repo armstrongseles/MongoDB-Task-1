@@ -27,5 +27,5 @@ Here is the sample JSON data used in this project:
         "product_material": "Cotton",
         "product_color": "indigo"
     },
-    ...
+    
 ]
