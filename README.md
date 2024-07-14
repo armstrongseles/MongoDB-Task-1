@@ -31,7 +31,7 @@ Here is the sample JSON data used in this project:
 ]
 
 
-Here's a sample README.md file for your MongoDB project:
+##Here's a sample README.md file for your MongoDB project:
 
 markdown
 Copy code
@@ -68,7 +68,7 @@ Here is the sample JSON data used in this project:
 ]
 
 
-Queries
+##Queries
 1. Find all the information about each product
 json
 
