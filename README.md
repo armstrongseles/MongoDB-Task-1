@@ -33,8 +33,7 @@ Here is the sample JSON data used in this project:
 
 ##Here's a sample README.md file for your MongoDB project:
 
-markdown
-Copy code
+
 # MongoDB Product Queries
 
 This project contains MongoDB queries for managing a product database. Below are the details of the available queries and their purposes.
